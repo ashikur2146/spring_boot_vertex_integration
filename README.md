@@ -1,1 +1,1 @@
-# spring_boot_vertex_integration
+# spring boot and vertex integration
